@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+    background-color: #70624f;
+}
+
+.lrm-header {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-75%, -75%);
+    letter-spacing: -0.1em;
+    font-size: 350%;
+    color: #251b04;
+}
+
+#rock-image img {
+    position: absolute;
+    height: 150px;
+    width: auto;
+    top: 40%;
+    left: 50%;
+    transform: translate(-55%, -75%);
+}
